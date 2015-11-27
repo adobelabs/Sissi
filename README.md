@@ -18,4 +18,4 @@ API 几乎跟 Flex 一致
 使用 Sissi 写出可以在效率方面可控的UI代码，配合 [MonsterDebugger](http://www.monsterdebugger.com) 的结合使用可以进行快速的 UI 精确排版，无需其他的编辑器。
 
 #### 预览
-可以自行编译 SissiExplorer.as 进行预览
+可以自行编译 SissiExplorer.as 进行预览（例子不全）
